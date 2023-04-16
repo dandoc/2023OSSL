@@ -1,2 +1,2 @@
 # 2023OSSL
-this repo for oss class
+this is a repo for oss class
